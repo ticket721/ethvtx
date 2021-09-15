@@ -64,7 +64,7 @@
         "redux-saga": "^0.16.2",
         "resolve": "1.10.0",
         "sass-loader": "7.1.0",
-        "set-value": ">=2.0.1",
+        "set-value": ">=4.0.1",
         "shards-react": "^1.0.1",
         "style-loader": "0.23.1",
         "styled-components": "^4.1.3",
